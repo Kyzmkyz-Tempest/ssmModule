@@ -1,0 +1,25 @@
+{
+  "name": "panel_module",
+  "version": "1.0.0",
+  "description": "function module for ssm panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyzmkyz-Tempest/ssmModule.git"
+  },
+  "keywords": [
+    "termux"
+  ],
+  "author": "puspa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyzmkyz-Tempest/ssmModule/issues"
+  },
+  "homepage": "https://github.com/Kyzmkyz-Tempest/ssmModule#readme",
+  "dependencies": {
+    "firebase": "^11.6.0"
+  }
+}
